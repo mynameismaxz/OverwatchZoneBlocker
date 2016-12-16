@@ -1,0 +1,19 @@
+﻿<Window x:Class="OverwatchZoneBlocker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OverwatchZoneBlocker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="353.889" Width="529.331">
+    <Grid Margin="0,0,0,-6">
+        <Button x:Name="BtnBlock" Content="Block IP/Zone" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top" Width="92" Height="33" Click="BtnBlock_Click"/>
+        <Label x:Name="label" Content="Overwatch Zone Blocker V.0.1 Beta" HorizontalAlignment="Left" Height="27" Margin="10,10,0,0" VerticalAlignment="Top" Width="198"/>
+        <Button x:Name="BtnBlock_Copy" Content="Unblock All Zone" HorizontalAlignment="Left" Margin="116,42,0,0" VerticalAlignment="Top" Width="108" Height="33" Click="BtnBlock_Copy_Click"/>
+        <Label x:Name="label1" Content="Status :" HorizontalAlignment="Left" Margin="10,84,0,0" VerticalAlignment="Top" Width="54"/>
+
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="182" Margin="10,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="501" IsEnabled="False"/>
+        <Label x:Name="label_Copy" Content="Created By BIGBOSS Modified by ALICE9K, MARCHENLNWZAA007" HorizontalAlignment="Left" Height="27" Margin="154,292,0,0" VerticalAlignment="Top" Width="363"/>
+
+    </Grid>
+</Window>

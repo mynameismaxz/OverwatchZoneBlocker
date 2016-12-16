@@ -1,0 +1,16 @@
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\bin\Debug\OverwatchZoneBlocker.exe.config
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\bin\Debug\OverwatchZoneBlocker.exe
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\bin\Debug\OverwatchZoneBlocker.pdb
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\obj\Debug\OverwatchZoneBlocker.csprojResolveAssemblyReference.cache
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\obj\Debug\MainWindow.g.cs
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\obj\Debug\App.g.cs
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\obj\Debug\OverwatchZoneBlocker_MarkupCompile.cache
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\obj\Debug\OverwatchZoneBlocker_MarkupCompile.lref
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\obj\Debug\MainWindow.baml
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\obj\Debug\OverwatchZoneBlocker.g.resources
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\obj\Debug\OverwatchZoneBlocker.Properties.Resources.resources
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\obj\Debug\OverwatchZoneBlocker.csproj.GenerateResource.Cache
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\obj\Debug\OverwatchZoneBlocker.exe
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\obj\Debug\OverwatchZoneBlocker.pdb
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Broadcaster2\Desktop\OverwatchZoneBlocker\OverwatchZoneBlocker\bin\Debug\Newtonsoft.Json.xml
